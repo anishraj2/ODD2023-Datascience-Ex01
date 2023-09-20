@@ -99,3 +99,5 @@ df.isnull().sum()
 ![NON NULL AFTER](16.png)<br>
 ## OUTCOME:
 ![OUTCOME](17.png)
+## RESULT:
+Thus,the given data is read,cleansed and the cleaned data is saved into the file.
