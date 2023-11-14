@@ -1,4 +1,4 @@
-# Ex-01_DS_Data_Cleansing
+# Ex 01 Data Cleaning
 
 ## AIM
 To read the given data and perform data cleaning and save the cleaned data to a file. 
